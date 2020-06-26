@@ -17,7 +17,7 @@ end
 
 def modulo(num1, num2)
   puts "#{num1} % #{num2}" 
-end
+end 
 
 def square_root(num)
   puts Math.sqrt.to_s
