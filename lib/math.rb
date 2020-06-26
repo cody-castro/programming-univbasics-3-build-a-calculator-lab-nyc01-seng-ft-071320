@@ -19,8 +19,8 @@ def modulo(num1, num2)
   puts "#{num1} % #{num2}" 
 end
 
-def square_root(Math.sqrt.num)
-  return "#{num}"
+def square_root(num)
+  return "Math.sqrt.#{num}"
 end
 
 addition(5,4)
